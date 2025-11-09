@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+build/
+*.log
+.DS_Store
+
+# Ignore sensitive files
+Backend/config/serviceAccount.json
